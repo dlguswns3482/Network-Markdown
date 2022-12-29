@@ -1,4 +1,4 @@
-## Point-to-Point 터널링
+## Point-to-Point 터널링 (PPTP)
 
 * vpn을 사용할 수 있는 모든 장치에서 사용할 수 있는 표준 vpn이다.
 
